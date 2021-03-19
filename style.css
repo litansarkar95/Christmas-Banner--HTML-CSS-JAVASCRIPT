@@ -76,6 +76,7 @@ section i:nth-child(even){
 	border: 1px solid #ff2a2a;
 }
 
+
 @keyframes animate{
 	0%{
 		transform: translateY(0);
